@@ -1,0 +1,6 @@
+*.pdb
+*.map
+*.exe
+*.dll
+*.ilk
+*.pyc
